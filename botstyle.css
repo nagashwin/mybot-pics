@@ -18,7 +18,7 @@
 .botpress__side-conversation,
 .botpress__side-header,
 .botpress__convos-list {
-  background-color: rgba(90, 195, 202, 0.3);
+  background-color:#fffaf0;
 }
  
 .botpress__side-external .botpress__side-internal .botpress__side-conversation .botpress__side-conversation-bottom .botpress__side-new-message {
