@@ -2,3 +2,8 @@ body {
   margin: 0 !important;
   font-family:monospace;
   overflow: hidden; }
+
+.botpress__side-conversation,
+.botpress__side-header,
+.botpress__convos-list {
+  background-color:#093eee9d;
