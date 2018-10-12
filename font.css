@@ -3,15 +3,3 @@ body {
   font-family:monospace;
   overflow: hidden; }
 
-.botpress__side-conversation,
-.botpress__side-header,
-.botpress__convos-list {
-  background-color:#1e4ff1c4;
-  
-  .botpress__side-header-bot-name,
-.botpress__message-date,
-.botpress__side-item-name,
-.botpress__side-internal .botpress__side-header .botpress__toggle-convos-button i,
-.botpress__side-internal .botpress__side-header .botpress__close-button i {
-  color:#fff;
-}
